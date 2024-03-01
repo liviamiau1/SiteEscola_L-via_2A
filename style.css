@@ -1,0 +1,12 @@
+heade.cabeçalho {
+background-color: darkblue;
+color: aliceblue;
+display: flex;
+justify-content: space-around;
+}
+
+.cabeçalho-imagem{
+    width: 20%;
+
+}
+
