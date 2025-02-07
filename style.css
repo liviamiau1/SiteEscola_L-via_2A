@@ -4,8 +4,8 @@
 }
 
 .cabecalho {
-    background-color: #cecccc;
-    color: rgb(0, 0, 0);
+    background-color: rgb(233, 186, 115);
+    color: rgb(231, 193, 87);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -27,7 +27,7 @@
 }
 
 .escola{
-    background-image: linear-gradient(#c4c3c3,#ffffff);
+    background-image: linear-gradient(#e9b960,#ecd179);
     color:rgb(0, 0, 0);
     display: flex;
     justify-content: center;
