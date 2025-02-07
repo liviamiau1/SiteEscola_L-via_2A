@@ -44,7 +44,7 @@
     padding: 24px 0;
 }
 .estudante-imagem{
-    width: 20px;
+    width: 30px;
 }
 
 .estudante-icone{
@@ -67,7 +67,7 @@
 }
 
 .rodape{
-    background-color: rgb(245, 209, 110);
+    background-color: rgb(20, 20, 20);
     text-align: center;
 }
 
